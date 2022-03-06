@@ -67,10 +67,10 @@ exports.menu = (prefix, salam, pushname) =>{
 │•INFO BOT•
 │VERSI : 0.02
 │FITUR : 230
-│CREATOR : APRILIA
+│CREATOR : Tata
 │MODEL SCRIPT : BETA
-│SUBSCRIBE CHANNEL VENZ BOT
-│https://www.youtube.com/c/Venzz - BOT
+│FOLLOW AKUN OMLET TATA
+│Angela1120
 ╰───────────────┈ ⳹
 
 ╭─⬣ *List Menu*
@@ -337,15 +337,9 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}setname [text] 
 ╰─⬣
 ╭─⧉ BIG THANKS TO ⧉
-│❒ ALLAH SWT
+│❒ allah
 │❒ ORTU
-│❒ ZEEONE OFC (MASTAH)
-│❒ ALDI FAUZI (MASTAH)
-│❒ VENZZ (NEWBIE)
-│❒ SIEGRIN (MASTAH)
-│❒ DINATA (MASTAH)
-│❒ SANZY YT (MASTAH)
-│❒ PENYEDIA MODULE
+│❒ Tata
 ╰───────────────┈ ⳹
 `
 	}
